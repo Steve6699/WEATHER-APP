@@ -2,7 +2,7 @@
 This program is a weather web page, where the user searches for the city in which he wants to know the weather.
 
 The website obtains weather information via API from openweathermap.org.
-There are two main functions:
+There are main function:
 1- cheakWeather(city):
 This function fetches weather information according to the city entered in the search from the site from which we obtain the data. It also checks if the city is invalid through a verification condition. If it is invalid, an error message appears to the user. If it is a valid city, the weather data box for that city appears.
 
